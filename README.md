@@ -11,6 +11,10 @@ This is a simple To-Do List application built with HTML, CSS, and JavaScript. It
 * **Delete Tasks:** Users can delete tasks by clicking the "x" button next to the task.
 * **Persistent Data:** The tasks are saved to local storage, so they are preserved even if the browser is closed or refreshed.
 
+## Website
+<img width="1440" alt="Screenshot 2025-05-14 at 10 56 31 AM" src="https://github.com/user-attachments/assets/7c69a403-9842-4c08-aaf0-92e58a89745d" />
+
+
 ## Technologies Used
 
 * **HTML:** For the structure of the web page.
