@@ -65,3 +65,8 @@ The application uses local storage to save the tasks. The `saveData()` function 
 * Add more advanced styling.
 * Add more advanced data management.
 * Add a clear all completed tasks option.
+
+## Contributing
+
+Feel free to fork this repository, make improvements, and submit pull requests. Any contributions are welcome!
+
